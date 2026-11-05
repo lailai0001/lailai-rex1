@@ -1,1 +1,1 @@
-{"title": "lailairex1", "description": "lai 的 REX 组件合集 1", "icon": "https://raw.githubusercontent.com/lailai0001/lailai-rex1/refs/heads/main/cover.jpg", "widgets": []}
+{"title": "lailairex1", "description": "lai 的 REX 组件合集 1", "icon": "https://raw.githubusercontent.com/lailai0001/lailai-rex1/refs/heads/main/cover.jpg", "widgets": [{"id": "lai_juzi4k", "title": "橘汁4K", "description": "", "requiredVersion": "0.0.1", "version": "1.0.0", "author": "", "url": "https://raw.githubusercontent.com/lailai0001/lailai-rex1/refs/heads/main/modules/lai_juzi4k_1.0.0.js"}]}
